@@ -1,5 +1,8 @@
 _repo: J.-Cole_7357
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gellibrand, Emma
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2439
 description: J. Cole.-The golden gate.-The wonderful well.-Dick and the bantams.-Cushamee.-All
   in a day.-A doll's party.-Learning by heart.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7357#J.-Cole
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
